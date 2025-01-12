@@ -1,0 +1,14 @@
+JON flexi;27,28,29,
+JON procr;23,24,25,
+JON hinge ;23,24,25,
+JON siderms;18,19,28,334,
+JON sideav ;18,19,334,
+JON maxd;18,28,332,334,383,
+
+
+LG flexi;30,31,32,
+LG procr;26,27,28,
+LG hinge;26,27,28,
+LG siderms;21,22,31,337,
+LG sideav;21,22,337,
+LG maxd;21,31,335,337,386,
